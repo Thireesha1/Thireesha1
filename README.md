@@ -1,16 +1,27 @@
 ## Hi there 👋
 
-<!--
-**Thireesha1/Thireesha1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hello! I'm [Your Name]  
 
-Here are some ideas to get you started:
+I'm a passionate developer and designer focused on building responsive web applications and engaging user experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Skills & Tools:
+- **Programming Languages:** Java, Python, JavaScript  
+- **Frameworks:** Spring Boot, React  
+- **UI/UX Design:** Figma  
+- **Certifications:** NPTEL - Python for Data Science, Infosys Spring Boot  
+
+### 💼 Projects:
+- **Responsive Music Player:** Built a music player with modern web design.
+- **Amazon Clone:** Replicated core features of the Amazon platform for learning.
+- **Automated Question Builder:** Developed for the Hexaware Hackathon to streamline quiz creation.
+
+### 🎯 Goals:
+- Currently working on **Acme Airlines mobile app** to enhance customer travel experience.  
+- Preparing for **Accenture Innovation competition**.  
+
+### 📫 How to reach me:
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com)
+- Email: your-email@example.com  
+
+Thanks for visiting! 😄
+

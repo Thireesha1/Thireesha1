@@ -20,7 +20,7 @@ I'm a passionate developer and designer focused on building responsive web appli
 - Preparing for **Accenture Innovation competition**.  
 
  📫 How to reach me:
-- LinkedIn: https://www.linkedin.com/posts/thireesha-k-614b2224a_tasinovation-tas-task3-activity-7094353445192699904-0i6p?utm_source=share&utm_medium=member_android
+- LinkedIn: https://www.linkedin.com/in/thireesha-k-614b2224a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 - Email: thirisha0416@gmail.com  
 
 Thanks for visiting! 😄
